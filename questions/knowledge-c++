@@ -1,0 +1,2 @@
+1.Q: c++ reset函数的作用？
+  A: 他是c++智能指针的方法，作用是重置当前指针值。eg: test/reset-test.cc
