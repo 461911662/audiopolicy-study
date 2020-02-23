@@ -5,3 +5,7 @@ Link: https://blog.csdn.net/qq_20252351/article/details/104397686
 audiopolicymanagertest之TEST_F(AudioPolicyManagerTest, CreateAudioPatchFailure)
 smartmind: audiopolicymanagertest-AudioPatch.emmx
 Link: https://blog.csdn.net/qq_20252351/article/details/104436258
+
+audiopolicymanagertest-创建AudioPatch-Mix2Device
+smartmind: audiopolicymanagertest-CreateAudioPatchFromMix.emmx
+Link: https://blog.csdn.net/qq_20252351/article/details/104458293
